@@ -1,0 +1,5 @@
+- **Biba Model** ("read up, write down")
+	- emphasis on data integrity, rather than confidentiality
+	- users can only create content at or below their integrity level, only view content at or above their integrity level
+- **Bell-LaPadula Model** ("read down", "write up")
+	- 

@@ -1,0 +1,8 @@
+- Microsoft Management Console (mmc)- lets you config system with GUI things called snap-ins
+	- snap-ins include
+		- compmgmt.msc (Computer Management)
+		- gpmc.msc (Group Policy Management Console)
+		- [[services.msc]]
+		- perfmon (Performance Monitor)
+		- [[eventvwr]]
+		- [[lusrmgr.msc]]

@@ -1,0 +1,13 @@
+- [IPSec](https://www.cloudflare.com/learning/network-layer/what-is-ipsec/) usually uses port 500, for OSI layer 3
+- protocol suite adding encryption and auth to [[IP]]
+	- Authentication Header - hash for integrity
+	- Encapsulating Security Protocol - encrypts+auth
+		- usually SHA2 for hash, AES for enc
+	- Security Association
+	- IP is not part of the suite, IPsec runs on top of IP
+- often used to set up [[VPN]]s
+
+- modes
+	- tunnel - original IP header+payload is encrypted, new IP header is added
+	- transport- payload encrypted but original IP header is not
+		- intermed routers can see final dest of packet

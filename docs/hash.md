@@ -1,0 +1,3 @@
+- MD5 hash on windows
+	- using `get-filehash -algorithm md5 <file directory>
+	- `md5sum.exe hashing.txt`

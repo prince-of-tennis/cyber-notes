@@ -1,0 +1,5 @@
+- console -> 0
+	- what you actually do in real-life with a blue rj45 and [[PuTTY]]
+- VTY (virtual terminal) -> 0-4 or 0-15
+- auxiliary -> 0
+	- 
